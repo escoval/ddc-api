@@ -3,7 +3,7 @@ pandas
 networkx
 matplotlib
 scipy
-sklearn
+scikit-learn
 flask
 flask-api
 jupyter
